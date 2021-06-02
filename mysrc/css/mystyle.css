@@ -1,0 +1,598 @@
+*{
+	text-decoration:none!important;
+}
+body{
+	background-image: url('a.jpg');
+	background-size: 100% 110%;
+	width: 100%;
+	height: 100vh;
+	background-attachment:fixed;
+	background-repeat:no repeat;
+}
+.mynav ul li{
+	
+	margin-left:70px;
+	margin-top:50px;
+	margin-bottom:35px;
+}
+.navbar-brand{
+	padding-bottom:10px!important;
+}
+.responsive{
+	width:100% !important;
+	height:auto !important;
+}
+.bn{
+	margin-top:100px!important;
+		
+}
+
+.mynav ul li a{
+	
+	color:white!important;
+}
+
+
+
+.active, .collapse  ul li:hover
+{
+	background:  #0d085e;
+	border-radius: 3px;
+}
+.jk-brand{
+	float:left;
+	margin-top:40px!important;
+	padding-left:400px!important;
+}
+#carouselExampleControls{
+	height:450px!important;
+	width:1110px!important;
+	margin-left:203px!important;
+	margin:auto!important;
+}
+
+.dropdown-menu{
+	
+	
+			background-color:#0c0a42a3 !important;
+
+		}
+		.dropdown-item{
+								background-color:#007bff6b !important;
+		}
+		.dropdown-item:hover{
+								background:  #0d085e!important;
+		}
+	
+}
+
+	
+
+.nav-item{
+	height:40px!important;
+	
+}
+.rib{
+
+	background-color:#43494f96 !important;
+	color:white;
+	border-bottom:5px solid blue;
+
+	
+	
+	margin-right:2px!important;
+	
+}
+	
+	
+	
+
+
+.our_courses_div{
+	
+	background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(18,244,162,0.4935107832195378) 0%, rgba(39,98,178,1) 60%);
+	
+	color:#020f4a!important;
+}
+.our_courses_div h1{
+	text-align:center;
+	margin:100px 0px;
+
+	
+}
+.card{
+	background-color:#0b1a61;
+	margin-bottom:10px ;
+	padding-right:10px;
+	background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(18,244,162,0.4935107832195378) 0%, rgba(39,98,178,1) 60%);
+}
+.card-body{
+	background-color:#0b1a61;
+	color:white;
+}
+	
+.advertisement{
+		margin-top:100px ;
+		padding-bottom:12vh;
+}
+.carousel-inner{
+	margin-top:100px ;
+	
+}
+
+.my_social_icon{
+	top:52.5vh;
+	position:fixed;
+	height:145px;
+	width:40px;
+	
+	 
+ background-color:GRAY!important;
+}
+.my_social_icon a {
+color:blue;
+font-size:20px;
+
+	margin-left:8px;
+	padding-top:9px!important;
+}
+.my_social_icon:hover{
+  background-color:rgb(76, 0, 0)
+	font-size:25px!important;
+	text-shadow:1px 1px 10px black!important;
+}
+
+.map-container-3{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:20px;
+margin-top:5.5rem;
+}
+.map-container-3 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.bcc{
+	
+	background-color:#167cd682;
+	padding:10px 0px;
+}
+.dev{
+	
+	font-size:.5rem;
+	font-style:bold;
+	
+}
+.algo{
+	font-size:.8rem;
+	color: #99ff66;
+	font-style:bold;
+	background-color:white;
+	padding:1px;
+	padding-left:2px;
+	padding-right:1px;
+	border-left:2px solid #99ff66;
+	border-top:2px solid #99ff66;
+	border-bottom:2px solid #99ff66;
+}
+.tech{
+	font-size:.8rem;
+	color: white;
+	font-style:bold;
+	background-color: #99ff66;
+	padding:1px;
+	padding-left:1px;
+	padding-right:2px;
+	border-right:2px solid white;
+	border-top:2px solid white;
+	border-bottom:2px solid white;
+}
+.creator a {
+	text-decoration:none;
+}
+.bd{
+	font-size:.8rem;
+	font-style:bold;
+	padding-right:25px;
+}
+.creator{
+	padding:2px 0px;
+	text-align:right;
+}
+.índex{
+	 z-index:1;
+	 overflow-y:hidden;
+	 
+}
+.footer h6{
+	
+	text-align:center;
+	
+}
+.footer{
+	top:90vh;
+	
+	
+	width:100vw;
+	
+	 z-index:1;
+	 
+}
+.header{
+		background-color:#021F40;
+	height:200px;
+}
+.header h1{
+	text-align:center;
+	color:white;
+	padding-top:70px;
+}
+.address{
+	
+	padding:20px;
+}
+.address_title{
+	
+	text-decoration:bold;
+	font-size:20px;
+	color:black;
+}
+.address_title_value{
+	
+	text-decoration:bold;
+	font-size:20px;
+	color:black;
+	padding-left:50px;
+}
+.my_contact_form{
+	
+	margin-bottom:100px;
+	font-size:20px;
+	color:black;
+}
+.gallery:hover{
+	
+	font-size:35px;
+	
+}
+.lo{
+	
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(18,244,162,0.4935107832195378) 0%, rgba(39,98,178,1) 60%);
+}
+
+
+
+.jk{
+	margin-left:430px;
+}
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  font-size: 17px;
+}
+
+.hovereffect:hover h2 {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: translate3d(-50%,-50%,0) scale3d(0.8,0.8,1);
+  transform: translate3d(-50%,-50%,0) scale3d(0.8,0.8,1);
+}
+
+.hovereffect a.info {
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #fff;
+  margin: 50px 0 0 0;
+  background-color: transparent;
+}
+
+.hovereffect a.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect h2,
+.hovereffect p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+  -webkit-transform-origin: 50%;
+  -ms-transform-origin: 50%;
+  transform-origin: 50%;
+  background-color: transparent;
+  margin: 0px;
+  padding: 0px;
+}
+
+.hovereffect .overlay:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 40%;
+  height: 60%;
+  border: 2px solid #fff;
+  content: '';
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-45deg) scale3d(0,0,1);
+  transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-45deg) scale3d(0,0,1);
+  -webkit-transform-origin: 50%;
+  -ms-transform-origin: 50%;
+  transform-origin: 50%;
+}
+
+.hovereffect p {
+  width: 20%;
+  text-transform: none;
+  font-size: 15px;
+  line-height: 2;
+}
+
+.hovereffect p a {
+  color: #fff;
+}
+
+.hovereffect p a:hover,
+.hovereffect p a:focus {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+
+.hovereffect  a i {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  padding: 0px 5px;
+}
+
+.hovereffect p a:first-child i {
+  -webkit-transform: translate3d(-60px,-60px,0);
+  transform: translate3d(-60px,-60px,0);
+}
+
+.hovereffect p a:nth-child(2) i {
+  -webkit-transform: translate3d(60px,-60px,0);
+  transform: translate3d(60px,-60px,0);
+}
+
+.hovereffect p a:nth-child(3) i {
+  -webkit-transform: translate3d(-60px,60px,0);
+  transform: translate3d(-60px,60px,0);
+}
+
+.hovereffect p a:nth-child(4) i {
+  -webkit-transform: translate3d(60px,60px,0);
+  transform: translate3d(60px,60px,0);
+}
+
+.hovereffect:hover .overlay:before {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  background-color: rgba(0,0,0,0.2);
+  -webkit-transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-135deg) scale3d(1,1,1);
+  transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-135deg) scale3d(1,1,1);
+}
+
+.hovereffect:hover p i:empty {
+  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+
+
+
+
+
+
+
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  font-size: 17px;
+}
+
+.hovereffect:hover h2 {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: translate3d(-50%,-50%,0) scale3d(0.8,0.8,1);
+  transform: translate3d(-50%,-50%,0) scale3d(0.8,0.8,1);
+}
+
+.hovereffect a.info {
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #fff;
+  margin: 50px 0 0 0;
+  background-color: transparent;
+}
+
+.hovereffect a.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect h2,
+.hovereffect p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+  -webkit-transform-origin: 50%;
+  -ms-transform-origin: 50%;
+  transform-origin: 50%;
+  background-color: transparent;
+  margin: 0px;
+  padding: 0px;
+}
+
+.hovereffect .overlay:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 40%;
+  height: 60%;
+  border: 2px solid #fff;
+  content: '';
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-45deg) scale3d(0,0,1);
+  transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-45deg) scale3d(0,0,1);
+  -webkit-transform-origin: 50%;
+  -ms-transform-origin: 50%;
+  transform-origin: 50%;
+}
+
+.hovereffect p {
+  width: 20%;
+  text-transform: none;
+  font-size: 15px;
+  line-height: 2;
+}
+
+.hovereffect p a {
+  color: #fff;
+}
+
+.hovereffect p a:hover,
+.hovereffect p a:focus {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+
+.hovereffect  a i {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  padding: 0px 5px;
+}
+
+.hovereffect p a:first-child i {
+  -webkit-transform: translate3d(-60px,-60px,0);
+  transform: translate3d(-60px,-60px,0);
+}
+
+.hovereffect p a:nth-child(2) i {
+  -webkit-transform: translate3d(60px,-60px,0);
+  transform: translate3d(60px,-60px,0);
+}
+
+.hovereffect p a:nth-child(3) i {
+  -webkit-transform: translate3d(-60px,60px,0);
+  transform: translate3d(-60px,60px,0);
+}
+
+.hovereffect p a:nth-child(4) i {
+  -webkit-transform: translate3d(60px,60px,0);
+  transform: translate3d(60px,60px,0);
+}
+
+.hovereffect:hover .overlay:before {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  background-color: rgba(0,0,0,0.2);
+  -webkit-transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-135deg) scale3d(1,1,1);
+  transform: translate3d(-50%,-50%,0) rotate3d(0,0,1,-135deg) scale3d(1,1,1);
+}
+
+.hovereffect:hover p i:empty {
+  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.mynavil ul li{
+	
+	margin-left:50px!important;
+	margin-top:50px!important;
+	margin-bottom:35px!important;
+		height:200px!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
